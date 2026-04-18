@@ -527,5 +527,4 @@ Authorization: Bearer <admin-token>
 | File Upload | Multer (PDF, max 20MB)          |
 | Security    | helmet, cors                    |
 | Logging     | morgan                          |
-#   M a n a g e m e n t _ s y s t e m  
- 
+#
